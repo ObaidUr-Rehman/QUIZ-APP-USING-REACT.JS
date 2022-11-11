@@ -8,7 +8,7 @@ export const Questions = [
       asnwer: "C",
     },
     {
-      prompt: "What does CSS stand for?",
+      prompt: "What d?",
       optionA: "Computing Style Sheet",
       optionB: "Creative Style System",
       optionC: "Cascading Style Sheet",
